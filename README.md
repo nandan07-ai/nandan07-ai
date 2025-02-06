@@ -1,4 +1,5 @@
 ## Hi there 👋
+Im a amateur coder, exploring Github. 
 
 <!--
 **nandan07-ai/nandan07-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
